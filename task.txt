@@ -1,0 +1,17 @@
+#機械工学少人数ゼミ（担当：岡田先生）
+
+##10月16日(水)　
+・やったこと
+　・全員の志望動機を見た
+　・pr2
+・宿題
+　・pr2の姿勢を自由に生成する。（来週までに適当に研究室に行っても良い）
+　・UMLか絵コンテでやりたいことを表現する。（最終的な動画をイメージ）
+　　・落とし所を考えつつ，あんまり縛られずに自由に考える
+　・はんぺん（切り傷を入れる）・針・糸を持参する
+　　・まずは自分が縫うときにどんな挙動をしているかを動画で評価する
+
+##10月17日(木)
+・https://github.com/jsk-ros-pkg/jsk_demos/blob/e490fc90ade16f2e03b2af1f9a947dd4f20dcd2a/jsk_2019_10_spatula/euslisp/pr2-spatula-force-test.l を見たけど，pr2-interfaceなるものについて？
+・samplecodeのinitial poseに持っていくように，腕を広げていくコードを書いた。unix timeでdelayさせてる。
+・euslisp少し前進。
