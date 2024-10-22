@@ -20,4 +20,4 @@
 ・https://github.com/jsk-ros-pkg/jsk_pr2eus/blob/master/PR2_joints.pdfを見ながら色々な関節を動かして，色々な姿勢を作成した．→homework241016.l
 ・リフトとかも動かせたけど，GripperがLegendになくて動かせなかった．
 ・Gripperについて，動作(待機(callback))についてきになる→質問
-・UML
+・UML書いた（https://www.plantuml.com/plantuml/uml）
