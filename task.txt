@@ -5,7 +5,7 @@
 　・全員の志望動機を見た
 　・pr2
 ・宿題
-　・pr2の姿勢を自由に生成する。（来週までに適当に研究室に行っても良い）
+　・pr2の姿勢を自由に生成する。（来週までに適当に研究室に行っても良い） =DONE(研究室に行く時間はなかった)
 　・UMLか絵コンテでやりたいことを表現する。（最終的な動画をイメージ）
 　　・落とし所を考えつつ，あんまり縛られずに自由に考える
 　・はんぺん（切り傷を入れる）・針・糸を持参する
@@ -14,4 +14,9 @@
 ##10月17日(木)
 ・https://github.com/jsk-ros-pkg/jsk_demos/blob/e490fc90ade16f2e03b2af1f9a947dd4f20dcd2a/jsk_2019_10_spatula/euslisp/pr2-spatula-force-test.l を見たけど，pr2-interfaceなるものについて？
 ・samplecodeのinitial poseに持っていくように，腕を広げていくコードを書いた。unix timeでdelayさせてる。
-・euslisp少し前進。
+・euslisp少しわかってきた。
+
+##10月22日(火)
+・https://github.com/jsk-ros-pkg/jsk_pr2eus/blob/master/PR2_joints.pdfを見ながら色々な関節を動かして，色々な姿勢を作成した．→homework241016.l
+・リフトとかも動かせたけど，GripperがLegendになくて動かせなかった．
+・Gripperについて，動作(待機(callback))についてきになる→質問
